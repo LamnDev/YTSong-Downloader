@@ -1,7 +1,7 @@
 <h1 align="center">YouTube Song Downloader 🎵</h1>
 
 <p align='center'>
-  <b>A tool to extract MP3 of YouTube Video</b><br>
+  <b>A tool to extract MP3 of a YouTube Video</b><br>
   <b>Please star the project ⭐<b><br>
 </p>
 
